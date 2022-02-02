@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a JUCE / C++ programmer, Co-Founder of Yum Audio (yum-audio.com) and Co-Owner of Nextmidi (divisimate.com). 
+
 <!--
 **benediktadams/benediktadams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
